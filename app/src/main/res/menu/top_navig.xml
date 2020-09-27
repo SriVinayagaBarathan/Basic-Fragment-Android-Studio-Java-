@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:icon="@drawable/home"
+    android:id="@+id/homeid"
+    android:title="Home"
+    />
+    <item
+    android:id="@+id/memoid"
+    android:icon="@drawable/memo"
+    android:title="Memo"
+        />
+
+
+
+
+<item
+    android:icon="@drawable/role"
+    android:title="Role"
+    android:id="@+id/roleid"
+    />
+</menu>
